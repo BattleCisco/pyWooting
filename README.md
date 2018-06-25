@@ -9,7 +9,7 @@ Then before getting my module, you will need the DLL files for writing and readi
 And the two options are:
 * Downloading the pre-built DLL files by Jeroen that matches your OS(and matching bit number)
 
-* Downloading the source code for analog reading and RGB control from [Analog Reader](https://github.com/PastaJ36/wooting-analog-reader) and [RGB-controller](https://github.com/PastaJ36/wooting-rgb-control) made by Jeroen(PastaJ36). Once downloaded, open them up with Visual Studio and compile them to make the
+* Downloading the source code for analog reading and RGB control from [Analog Reader](https://github.com/PastaJ36/wooting-analog-reader) and [RGB-controller](https://github.com/PastaJ36/wooting-rgb-control) made by Jeroen(PastaJ36). Once downloaded, open them up with Visual Studio and compile them into their DLL files.
 
 Personally I like to have the source code at hand, if I wanna edit it or add new things. But either way works, so make your choice.
 
